@@ -13,5 +13,21 @@ Data structure --> a way to store and organize data so that it can be used effic
 
 - Non primitive data structure
     - Linear DS
+        - Static
+            - Array
+        - Dynamic
+            - Linked List
+            - Stack
+            - Queue
     - Non Linear DS
+        - Tree
+        - Graph
+
+## Operations on DS
+- Traversing
+- Insertion
+- Deletion
+- Searching
+- Sorting
+- Merging
 
